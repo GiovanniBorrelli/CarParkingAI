@@ -12,7 +12,7 @@ GameObject:
   - component: {fileID: 33826438229619134}
   - component: {fileID: 23301079818599898}
   - component: {fileID: 64822319872405390}
-  m_Layer: 3
+  m_Layer: 0
   m_Name: WalkWay 5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -115,9 +115,9 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4497011438508190}
-  m_Layer: 3
+  m_Layer: 0
   m_Name: WalkWay 5 prefab
-  m_TagString: Untagged
+  m_TagString: floor_obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

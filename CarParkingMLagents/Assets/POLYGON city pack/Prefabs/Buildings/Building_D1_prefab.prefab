@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 4583176950735566}
   m_Layer: 3
   m_Name: Building_D1_prefab
-  m_TagString: Untagged
+  m_TagString: obstacle
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

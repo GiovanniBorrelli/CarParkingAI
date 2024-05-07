@@ -8,16 +8,23 @@ TagManager:
   - line
   - target
   - agent
+  - parking_floor
+  - floor_obstacle
+  - obstacle
+  - lines
+  - sidewalk_target
+  - wall_target
+  - car
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - wall
+  - obstacle
   - Water
   - UI
-  - target
-  - 
-  - 
+  - lines
+  - car
+  - wall
   - 
   - 
   - 
